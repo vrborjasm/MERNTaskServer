@@ -22,3 +22,7 @@ npm install
 
 ```
 npm run dev
+```
+
+<h2>Previews</h2>
+Try the live demo https://fervent-jennings-996af6.netlify.app/
